@@ -5,6 +5,8 @@
 ##### 3. 작성일자: 2025-04-05(Sat) (ver3)
 ##### 3. 이메일: rabbit.white at daum dot net
 ##### 4. 비고:
+##### - 09_part2_fine_tuning.py에 32줄 #HfFolder.save_token('토큰') 추가할 것
+
 
 ##### 5. 참고자료
 ##### [1] GitHub - hyokwan/llama_repository: llama_repository, https://github.com/hyokwan/llama_repository, 2025.
