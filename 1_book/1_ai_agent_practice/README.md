@@ -5,3 +5,8 @@
 ##### 3. 작성일자: 2025-04-05(Sat) (ver3)
 ##### 3. 이메일: rabbit.white at daum dot net
 ##### 4. 비고:
+
+##### 5. 참고자료
+##### [1] GitHub - hyokwan/llama_repository: llama_repository, https://github.com/hyokwan/llama_repository, 2025.
+##### [2] 허민석, “데이터 사이언스 시리즈, 파이썬으로 구현해보는 필수 머신러닝/딥러닝 알고리즘, 나의 첫 머신러닝/딥러닝”, 위키북스, 2020. 07.
+##### [3] 조태호, “원리를 쉽게 이해하고 나만의 딥러닝 모델을 만들 수 있다!, 모두의 딥러닝”, 길벗, 2020. 11.
