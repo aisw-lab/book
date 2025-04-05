@@ -29,7 +29,7 @@ torch.cuda.set_device(device) # change allocation of current GPU
 print ('Current cuda device ', torch.cuda.current_device()) # check
 
 from huggingface_hub.hf_api import HfFolder
-HfFolder.save_token('토큰')
+#HfFolder.save_token('토큰')
 
 from transformers import (
     AutoModelForCausalLM,
